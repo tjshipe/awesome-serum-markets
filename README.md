@@ -25,7 +25,7 @@ yarn add @dr497/awesome-serum-markets
 ## Import
 
 ```typescript
-import AWESOME_MARKETS from "@dr497/awesome-serum-markets";
+import { AWESOME_MARKETS, AWESOME_TOKENS } from "@dr497/awesome-serum-markets";
 ```
 
 ## Markets
