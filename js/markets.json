@@ -216,30 +216,6 @@
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
   },
   {
-    "name": "EOSBULL/USDT",
-    "address": "H9ccnbAK7BjxDou2gZFC1Hq76ywZer64UTfuQR8HTd5X",
-    "deprecated": false,
-    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
-  },
-  {
-    "name": "EOSBULL/USDC",
-    "address": "7QnRwM6spZd8kGPFtxGa4dXTUpG9ecPAq2aEig4tKh2Z",
-    "deprecated": false,
-    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
-  },
-  {
-    "name": "EOSBEAR/USDT",
-    "address": "9Ra436dkNUK34bfN98QQzgY4VVGMcCNdfNHQPXUZxXzT",
-    "deprecated": false,
-    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
-  },
-  {
-    "name": "EOSBEAR/USDC",
-    "address": "EosZ33J2w6JWrDjcVPWKGNfSfgrErBnBAhjHjEdhRxFu",
-    "deprecated": false,
-    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
-  },
-  {
     "name": "MIDBULL/USDT",
     "address": "2sLJACFLQYUnXjHeA5h2vJcJRMZL8q1vX6cWKRGtEGUW",
     "deprecated": false,
