@@ -292,5 +292,11 @@
     "name": "USDC/ODOP",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
+  },
+  {
+    "address": "ATfhkE2bHeUwGLXhe3xbzYRTUrva25rtcTw7oQeXmB1L",
+    "name": "KIN/USDT",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
   }
 ]
