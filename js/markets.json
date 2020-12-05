@@ -43,7 +43,7 @@
   },
   {
     "name": "BNBBULL/USDC",
-    "address": "8kPaEiZDY5nqigfWYmrxnSCqMFCGoPatfHRshKhVgThP",
+    "address": "9WdeT2oPo4Y3TAcpWm7tTpMd44ybFqvaX2hZLuDh4V2o",
     "deprecated": false,
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
   },
@@ -79,7 +79,7 @@
   },
   {
     "name": "LTCBULL/USDC",
-    "address": "4SY2zQAaCTt2qb1DLiaRnMsse2uDYvTHCoAqhJejjhq5",
+    "address": "GD2s1RNvKSFWxbhWwkJZrwFsjgEh9epRtEfYtonm7jjS",
     "deprecated": false,
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
   },
