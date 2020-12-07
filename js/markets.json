@@ -286,5 +286,29 @@
     "address": "9u9CidSb5gxx3VjhSLwbwq3o9tZJkpAkwqjxPXKub4Ar",
     "deprecated": false,
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
+  },
+  {
+    "name": "BVOL/USDT",
+    "address": "BwpT4VXBpoy1GKqjEBwAer7BjiL2JqCAYXCtttiM4yDw",
+    "deprecated": false,
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
+  },
+  {
+    "name": "BVOL/USDC",
+    "address": "CEZL3EhPE8vjXEr8chUxbEY2vgTofRuFjNsvsxn3N2SG",
+    "deprecated": false,
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
+  },
+  {
+    "name": "IBVOL/USDT",
+    "address": "",
+    "deprecated": false,
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
+  },
+  {
+    "name": "IBVOL/USDC",
+    "address": "GYNKwwbymRGQL1GDQ1JdRwwM5c958GgufDy17HM79YcC",
+    "deprecated": false,
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
   }
 ]
