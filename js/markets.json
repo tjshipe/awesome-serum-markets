@@ -316,5 +316,17 @@
     "address": "8e6Rc8xFPdAqWgyKaLqJRZNQy7QxRHf8msNkTKLqMhfi",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
+  },
+  {
+    "name": "AAVE/USDT",
+    "address": "6qL1KNXr9udBafajCw9RYgsdijCAjga6YDk2qkKeNx6f",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  },
+  {
+    "name": "AAVE/USDC",
+    "address": "Cx2QmVm6yU7kFktDXNrnBnwR1qh7n5VB4zgWREVWPfsm",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
   }
 ]
