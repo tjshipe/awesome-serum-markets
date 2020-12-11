@@ -319,13 +319,13 @@
   },
   {
     "name": "AAVE/USDT",
-    "address": "6qL1KNXr9udBafajCw9RYgsdijCAjga6YDk2qkKeNx6f",
+    "address": "BHaoJzF1vxYuc1zoPkWNNqxDFt5Q64G1B4Gwt76abKD4",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
   },
   {
     "name": "AAVE/USDC",
-    "address": "Cx2QmVm6yU7kFktDXNrnBnwR1qh7n5VB4zgWREVWPfsm",
+    "address": "HGMBPFB3UBK5AiUjiGyTbd8ekP1D2esjbMK3oeHfEdv3",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
   }
