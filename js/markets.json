@@ -328,5 +328,11 @@
     "address": "HGMBPFB3UBK5AiUjiGyTbd8ekP1D2esjbMK3oeHfEdv3",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
+  },
+  {
+    "name": "LQID/USDC",
+    "address": "3HZWXFCx74xapSPV4rqBv2V7jUshauGS37vqxxoGp6qJ",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
   }
 ]
