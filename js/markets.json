@@ -346,5 +346,17 @@
     "address": "3HZWXFCx74xapSPV4rqBv2V7jUshauGS37vqxxoGp6qJ",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
+  },
+  {
+    "name": "SECO/USDC",
+    "address": "AfQetd9YZZEYs8sTJ8pSHZxvzjox5sqqPaPHYjtxhi5g",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  },
+  {
+    "name": "HOLY/USDC",
+    "address": "9gXFn5ispR6nBVg353ZWM7aJbUB8ectxqoVjqsCQ4HJX",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
   }
 ]
