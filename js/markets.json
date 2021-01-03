@@ -358,5 +358,37 @@
     "address": "9gXFn5ispR6nBVg353ZWM7aJbUB8ectxqoVjqsCQ4HJX",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
+  },
+  {
+    "name": "1Inch/USDC",
+    "address": "9poTx4PkPaYi5TqL1N8jcFUEqhxLv55CSVTeFZ4vFqNa",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false,
+    "tick size": 0.00001,
+    "lot size": 0.1
+  },
+  {
+    "name": "GRT/USDC",
+    "address": "DXJ5SUbLj15Xza48KC6FBr3CviiFtMmCDredRfgBFo9Y",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false,
+    "tick size": 0.00001,
+    "lot size": 0.1
+  },
+  {
+    "name": "COMP/USDC",
+    "address": "HwvPti5q6kYKUS8JSJsRYz7qZVHtpFDEyvHbM6os2RD6",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false,
+    "tick size": 0.0001,
+    "lot size": 0.01
+  },
+  {
+    "name": "PAXG/USDC",
+    "address": "HwtcFVBr81Re6VPkhZqViZeADyj856w9rNhgBpNXu8Lf",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false,
+    "tick size": 0.001,
+    "lot size": 0.01
   }
 ]
