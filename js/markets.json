@@ -394,5 +394,23 @@
     "address": "HwtcFVBr81Re6VPkhZqViZeADyj856w9rNhgBpNXu8Lf",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
+  },
+  {
+    "name": "TRYB/USDC",
+    "address": "2UWX7327btd1zvPHf2wMViKRNtE3SDEoTShBsXTGd4NX",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  },
+  {
+    "name": "BTC/TRYB",
+    "address": "6vx6EhsUHH3udyJeMbzQpE3iy4gVHXd64561CAyb5Dij",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  },
+  {
+    "name": "ETH/TRYB",
+    "address": "CWfPwnZeMvM14ZK2uvYrRj3Qmzq92tVfHgbrcgx2NgCH",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
   }
 ]
