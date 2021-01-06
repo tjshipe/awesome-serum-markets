@@ -412,5 +412,17 @@
     "address": "CWfPwnZeMvM14ZK2uvYrRj3Qmzq92tVfHgbrcgx2NgCH",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
+  },
+  {
+    "name": "APESZN_HOODIE/USDC",
+    "address": "9DH7a5faMazTkTUEus2yB4nPPqzfGy1zWntArUCCj3KK",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  },
+  {
+    "name": "APESZN_TEE_SHIRT/USDC",
+    "address": "GUTSrYUkHCpKtsTpKQJ1fvQAFyrrwSvqaMMKCPiPsFy6",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
   }
 ]
