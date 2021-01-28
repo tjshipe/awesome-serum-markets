@@ -424,5 +424,11 @@
     "address": "GUTSrYUkHCpKtsTpKQJ1fvQAFyrrwSvqaMMKCPiPsFy6",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
+  },
+  {
+    "name": "DOGEBULL/USDT",
+    "address": "ASboaJPFtJeCS5eG4gL3Lg95xrTz2UZSLE9sdJtY93kE",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
   }
 ]
