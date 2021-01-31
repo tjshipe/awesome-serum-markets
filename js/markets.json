@@ -427,8 +427,16 @@
   },
   {
     "name": "DOGEBULL/USDT",
-    "address": "ASboaJPFtJeCS5eG4gL3Lg95xrTz2UZSLE9sdJtY93kE",
+    "address": "7h1rEszaKvigcEhQJPxsSQjtHfsitcvQVfVe77KLBV1N",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  },
+  {
+    "name": "MAPSPOOL/USDT",
+    "address": "8bCqYjBMzahaQFjMTt6pyfShsNvsd7dNaVXyYWYUeKYH",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
   }
+
+  
 ]
