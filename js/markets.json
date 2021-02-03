@@ -432,7 +432,7 @@
     "deprecated": false
   },
   {
-    "name": "MAPS_DEC/USDT",
+    "name": "MAPSPOOL/USDT",
     "address": "8bCqYjBMzahaQFjMTt6pyfShsNvsd7dNaVXyYWYUeKYH",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
@@ -450,7 +450,7 @@
     "deprecated": false
   },
   {
-    "name": "OXY_DEC/USDC",
+    "name": "OXYPOOL/USDC",
     "address": "CQf4CbkC9aU5X8zjmvq9uqEY5QUfUWGLpntzzv1T8b9b",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
