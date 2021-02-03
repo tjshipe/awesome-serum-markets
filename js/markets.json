@@ -432,11 +432,27 @@
     "deprecated": false
   },
   {
-    "name": "MAPSPOOL/USDT",
+    "name": "MAPS_DEC/USDT",
     "address": "8bCqYjBMzahaQFjMTt6pyfShsNvsd7dNaVXyYWYUeKYH",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
+  },
+  {
+    "name": "MAPS/USDT",
+    "address": "8grUs4WZoTs4KJ8LfRNUBs6SNkMTp5BnVRzJgQ2ranDT",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  },
+  {
+    "name": "MAPS/USDC",
+    "address": "BqjGW7ousAizgs8VrHo5SR1LxTksAQPtb8cKZZiNvX5D",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  },
+  {
+    "name": "OXY_DEC/USDC",
+    "address": "CQf4CbkC9aU5X8zjmvq9uqEY5QUfUWGLpntzzv1T8b9b",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
   }
-
-  
 ]
