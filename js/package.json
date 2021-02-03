@@ -1,6 +1,6 @@
 {
   "name": "@dr497/awesome-serum-markets",
-  "version": "1.0.39",
+  "version": "1.0.40",
   "description": "A curated (unofficial) list of awesome markets for Serum",
   "main": "index.js",
   "repository": "git@github.com:dr497/awesome-serum-markets.git",
