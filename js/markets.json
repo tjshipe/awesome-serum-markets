@@ -454,5 +454,11 @@
     "address": "CQf4CbkC9aU5X8zjmvq9uqEY5QUfUWGLpntzzv1T8b9b",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
-  }
+  },
+  {
+    "name": "PERP/USDC",
+    "address": "G7LqXk9c7DSsezu2sZfrf5ftCbVkYkkCP6GyJsQcfjH5",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  } 
 ]
