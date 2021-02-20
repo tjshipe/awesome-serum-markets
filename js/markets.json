@@ -460,5 +460,21 @@
     "address": "G7LqXk9c7DSsezu2sZfrf5ftCbVkYkkCP6GyJsQcfjH5",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
-  } 
+  },
+  {
+    "name": "RAYD/USDT",
+    "address": "HZyhLoyAnfQ72irTdqPdWo2oFL9zzXaBmAqN72iF3sdX",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  },  {
+    "name": "RAY/USDC",
+    "address": "Bgz8EEMBjejAGSn6FdtKJkSGtvg4cuJUuRwaCBp28S3U",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  },  {
+    "name": "RAY/SRM",
+    "address": "HSGuveQDXtvYR432xjpKPgHfzWQxnb3T8FNuAAvaBbsU",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  }
 ]
