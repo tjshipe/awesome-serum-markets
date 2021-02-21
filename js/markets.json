@@ -471,9 +471,16 @@
     "address": "Bgz8EEMBjejAGSn6FdtKJkSGtvg4cuJUuRwaCBp28S3U",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
-  },  {
+  }, 
+  {
     "name": "RAY/SRM",
     "address": "HSGuveQDXtvYR432xjpKPgHfzWQxnb3T8FNuAAvaBbsU",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": false
+  },
+  {
+    "name": "RAYPOOL/USDC",
+    "address": "7KRhEZSUcJUxVHNR3oVGmFt8eFMhL5ex6kk42KX6PFEp",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": false
   }
