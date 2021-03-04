@@ -820,5 +820,105 @@
     "address": "3V2sfA9rCnBwjfqGca2UDxD4fVvPXW9GNAQCqAepKC9Q",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated":false
+  },
+  {
+    "market": "ETH/TRYB",
+    "address": "HGJqccU7numZ9mNn3r3z2h2wvW89NPxVpBgX5tBBUMDG",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "SECO/USDC",
+    "address": "CjsuF2gB28KqgniogCbbpp7FDMBwAkTawEN3gYKsgfS8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "CEL/USDC",
+    "address": "9MFFsTVgw6gKPZ1rpc6CSJSLaiNAonChcS7zCCMrAwEP",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "MAPS/USDC",
+    "address": "5y81Z11rjPErVC37h6wqeq2bYPtxbYhnrq8ga3bvXCiY",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "TRYB/USDT",
+    "address": "HeTeNKPCbYHukbGsasev163eeF64BjsQcCXz2xAYTA6S",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "CEL/USDT",
+    "address": "DjNH5Uedey2bh7yHrqAXzdd48dNZkk1rqnfoZLCpaZkP",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "PAXG/USDC",
+    "address": "GJWnwZJ599xjf7cRPP93aaVKqD5xUG5PBLNypHgPxitF",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "GRT/USDC",
+    "address": "E6umfgnsastaGANjpvzb15jaXdZH1wsg4ENHARgbjqUz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "AAVE/USDT",
+    "address": "3JwQFRuYZ3AeVWVRQRByJHT46da3AaGriysZfHU5Exoz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "HOLY/USDC",
+    "address": "QzB9DfWbNAUpfkwLNMLGfkK1AM2zttkMYGSwx5iCnGe",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "MAPS/USDT",
+    "address": "Ho9gQFFTYNYHHvcK4RKWdhHEYnXGbjobVtmNTNZrr6Cf",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "1INCH/USDC",
+    "address": "HCyhGnC77f7DaxQEvzj59g9ve7eJJXjsMYFWo4t7shcj",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "TRYB/USDC",
+    "address": "2axQYyzJDaMDA1TF3sfBmg5vkGTiRayrAkHJQA3JsC2v",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "RSR/USDC",
+    "address": "3h5QsiZKLkmApBTsMvJBZ8fPivo9HSrmR1LaJABN9zx6",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "LQID/USDC",
+    "address": "4FPFh1iAiitKYMCPDBmEQrZVgA1DVMKHZBU2R7wjQWuu",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "BTC/TRYB",
+    "address": "5D38vzPSfmAnYvgQgAjCeDAa2U4N9mCFdAoHaLvNk2nN",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "PERP/USDC",
+    "address": "7AHAKkL94Mx2VAkQb2kk74oNsxDnQ6aab4XwKwisfFdB",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "RSR/USDT",
+    "address": "97oKse21E4iSgaqqdHdWE1jY4tjTpBCMu4pAQap9gUMC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "AAVE/USDC",
+    "address": "CAww1itfT8rFeTCJCLZqTq9anZ7FpC8NzULNLcJMG4Qa",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "market": "COMP/USDC",
+    "address": "Dbyf1PPrAXfMe1LdEq57QW9GY1D4nNEt2fKVGEo6S3MU",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
