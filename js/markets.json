@@ -820,11 +820,5 @@
     "address": "3V2sfA9rCnBwjfqGca2UDxD4fVvPXW9GNAQCqAepKC9Q",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated":false
-  },
-  {
-    "name": "LQID/USDC",
-    "address": "7H25EmUb8SuVQWwiKNceF34doKKWeiuT9zvKPjLdA5YS",
-    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated":false
   }
 ]
