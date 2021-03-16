@@ -438,18 +438,6 @@
     "deprecated": true
   },
   {
-    "name": "MAPS/USDT",
-    "address": "8grUs4WZoTs4KJ8LfRNUBs6SNkMTp5BnVRzJgQ2ranDT",
-    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-    "deprecated": true
-  },
-  {
-    "name": "MAPS/USDC",
-    "address": "BqjGW7ousAizgs8VrHo5SR1LxTksAQPtb8cKZZiNvX5D",
-    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-    "deprecated": true
-  },
-  {
     "name": "OXYPOOL/USDC",
     "address": "CQf4CbkC9aU5X8zjmvq9uqEY5QUfUWGLpntzzv1T8b9b",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
