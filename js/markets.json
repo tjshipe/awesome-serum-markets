@@ -1144,7 +1144,11 @@
     "address": "3eze1uf2cqwCxainY8xMje1jf41JoDBswBGGrvbvzNYH",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated":false
+  },
+  {
+    "name": "FIDA/RAY",
+    "address": "9wH4Krv8Vim3op3JAu5NGZQdGxU8HLGAHZh3K77CemxC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated":false
   }
-
 ]
-
