@@ -1174,5 +1174,11 @@
     "address": "7MpMwArporUHEGW7quUpkPZp5L5cHPs9eKUfKCdaPHq2",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated":false
+  },
+  {
+    "name": "LIEN/USDC",
+    "address": "E6qm2xxhYa8H2YcPoydo6rFd8zgaX7cNYBoAQcw1QZ4b",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated":false
   }
 ]
