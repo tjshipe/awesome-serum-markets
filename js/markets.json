@@ -828,12 +828,6 @@
     "deprecated":false
   },
   {
-    "name": "MAPS/USDC",
-    "address": "5y81Z11rjPErVC37h6wqeq2bYPtxbYhnrq8ga3bvXCiY",
-    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated":false
-  },
-  {
     "name": "TRYB/WUSDT",
     "address": "HeTeNKPCbYHukbGsasev163eeF64BjsQcCXz2xAYTA6S",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
@@ -1166,12 +1160,6 @@
   {
     "name": "MAPS/RAY",
     "address": "7Q4hee42y8ZGguqKmwLhpFNqVTjeVNNBqhx8nt32VF85",
-    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated":false
-  },
-  {
-    "name": "COPE/USDC",
-    "address": "7MpMwArporUHEGW7quUpkPZp5L5cHPs9eKUfKCdaPHq2",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated":false
   },
