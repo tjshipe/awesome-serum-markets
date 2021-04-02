@@ -603,7 +603,7 @@
     "name": "BNBBULL/USDC",
     "address": "C5zFa5VRJftDRnQZjqxfVg6g5BLr1v7nYAvFV3BGZG9b",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated":false
+    "deprecated":true
   },
   {
     "name": "ALTBULL/USDC",
@@ -1077,7 +1077,7 @@
     "name": "ALTBEAR/USDT",
     "address": "5hwrLvNi4yTBZs5MJ8aUwYT3tGfLpEvYDyQvQhyG8AfZ",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated":false
+    "deprecated":true
   },
   {
     "name": "BNBBULL/USDT",
