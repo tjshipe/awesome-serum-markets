@@ -1206,12 +1206,6 @@
     "deprecated": false
   },
   {
-    "name": "BTC/SRM",
-    "address": "HfsedaWauvDaLPm6rwgMc6D5QRmhr8siqGtS6tf2wthU",
-    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
-  },
-  {
     "name": "SUSHI/SRM",
     "address": "FGYAizUhNEC9GBmj3UyxdiRWmGjR3TfzMq2dznwYnjtH",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
@@ -1232,6 +1226,12 @@
   {
     "name": "ETH/SRM",
     "address": "3Dpu2kXk87mF9Ls9caWCHqyBiv9gK3PwQkSvnrHZDrmi",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SAMO/USDC",
+    "address": "FR3SPJmgfRSKKQ2ysUZBu7vJLpzTixXnjzb84bY3Diif",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated": false
   }
