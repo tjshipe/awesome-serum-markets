@@ -969,7 +969,7 @@
     "name": "USDC/ODOP",
     "address": "9kheVGeeCSrN4jWte8oPiFaSAQn6WCdRfj6z7GhpqZwG",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "BTC/ODOP",
@@ -1238,6 +1238,12 @@
   {
     "name": "MEDIA/USDC",
     "address": "FfiqqvJcVL7oCCu8WQUMHLUC2dnHQPAPjTdSzsERFWjb",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TULIP/USDC",
+    "address": "8GufnKq7YnXKhnB3WNhgy5PzU9uvHbaaRrZWQK6ixPxW",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated": false
   }
