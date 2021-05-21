@@ -969,13 +969,13 @@
     "name": "USDC/ODOP",
     "address": "9kheVGeeCSrN4jWte8oPiFaSAQn6WCdRfj6z7GhpqZwG",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": true
+    "deprecated": false
   },
   {
     "name": "BTC/ODOP",
     "address": "9Wq1gzEN8FtRWxwwoRqzhup2LsuG2xGiwue7hpDVtEQE",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "LTCBEAR/USDT",
