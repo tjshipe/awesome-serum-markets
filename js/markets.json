@@ -1248,12 +1248,6 @@
     "deprecated": false
   },
   {
-    "name": "new COPE/USDC",
-    "address": "6fc7v3PmjZG9Lk2XTot6BywGyYLkBQuzuFKd4FpCsPxk",
-    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
-  },
-  {
     "name": "MER/USDT",
     "address": "6HwcY27nbeb933UkEcxqJejtjWLfNQFWkGCjAVNes6g7",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
@@ -1262,6 +1256,18 @@
   {
     "name": "MER/USDC",
     "address": "HhvDWug3ftYNx5148ZmrQxzvEmohN2pKVNiRT4TVoekF",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MERPOOL/USDC",
+    "address": "GqQLxU1Dc6a7NYWRWdgbcGSTHirjy4quFivxXJGDzDCz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOL/ODOP",
+    "address": "CRW23rK5LksqowrfpQTEUVEFUDNDLF34STyW7gXV18Xt",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated": false
   }
