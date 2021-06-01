@@ -1248,18 +1248,6 @@
     "deprecated": false
   },
   {
-    "name": "MER/USDT",
-    "address": "6HwcY27nbeb933UkEcxqJejtjWLfNQFWkGCjAVNes6g7",
-    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
-  },
-  {
-    "name": "MER/USDC",
-    "address": "HhvDWug3ftYNx5148ZmrQxzvEmohN2pKVNiRT4TVoekF",
-    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
-  },
-  {
     "name": "MERPOOL/USDC",
     "address": "GqQLxU1Dc6a7NYWRWdgbcGSTHirjy4quFivxXJGDzDCz",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
