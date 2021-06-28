@@ -1266,8 +1266,14 @@
     "deprecated": false
   },
   {
-    "name": "SYN/USDC",
-    "address": "DPfj2jYwPaezkCmUNm5SSYfkrkz8WFqwGLcxDDUsN3gA",
+    "name": "SYNPOOL/USDC",
+    "address": "Eg35DZcYLx6JvZfrEAWgDPfSXJbx2N7hbEwVD56RiXnk",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "WOO/USDC",
+    "address": "2Ux1EYeWsxywPKouRCNiALCZ1y3m563Tc4hq1kQganiq",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated": false
   }
