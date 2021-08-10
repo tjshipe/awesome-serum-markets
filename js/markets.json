@@ -1318,5 +1318,17 @@
     "address": "Cud48DK2qoxsWNzQeTL5D8sAiHsGwG8Ev1VMNcYLayxt",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated": false
+  },
+  {
+    "name": "DXL/USDC",
+    "address": "DYfigimKWc5VhavR4moPBibx9sMcWYVSjVdWvPztBPTa",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ORCA/USDC",
+    "address": "8N1KkhaCYDpj3awD58d85n973EwkpeYnRp84y1kdZpMX",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
   }
 ]
